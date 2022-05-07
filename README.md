@@ -1,1 +1,26 @@
-# f1-streamlit
+# F1 Machine Learning Project
+## _by: Nikolas Ermando_
+
+[![N|Solid](https://i2-prod.mirror.co.uk/incoming/article25818810.ece/ALTERNATES/s615b/0_GettyImages-1358622075.jpg)](https://www.formula1.com)
+
+## What is Formula 1
+Formula One (also known as Formula 1 or F1) is the highest class of international racing for open-wheel single-seater formula racing cars sanctioned by the Fédération Internationale de l'Automobile (FIA). The World Drivers' Championship, which became the FIA Formula One World Championship in 1981, has been one of the premier forms of racing around the world since its inaugural season in 1950. The word formula in the name refers to the set of rules to which all participants' cars must conform. A Formula One season consists of a series of races, known as Grands Prix, which take place worldwide on both purpose-built circuits and closed public roads.
+
+## Race Process
+#### Qualifying
+A qualifying session is held before each race to determine the order cars will be lined up in at the start of the race, with the fastest qualifier starting at the front and the slowest at the back. Currently, the first qualifying period (Q1) is eighteen minutes long, with all twenty cars competing. At the end of Q1, the five slowest drivers are eliminated from further qualification rounds, and fill positions sixteen to twenty on the grid based on their fastest lap time. Any driver attempting to set a qualifying time when the period ends is permitted to finish his lap, though no new laps may be started once the chequered flag is shown. After a short break, the second period (Q2) (15 minutes long) begins, with fifteen cars on the circuit. At the end of Q2, the five slowest drivers are once again eliminated, filling grid positions eleven to fifteen. Finally, the third qualifying period (Q3) features the ten fastest drivers from the second period. The drivers are issued a new set of soft tyres and have twelve minutes to set a qualifying time, which will determine the top ten positions on the grid. The driver who sets the fastest qualifying time is said to be on pole position, the grid position that offers the best physical position from which to start the race.
+#### Sprint Racing
+During the 2021 Formula One World Championship, Formula One trialed a "sprint qualifying" system at three Grands Prix—Britain, Italy, and São Paulo—in which the grid for the race on Sunday was determined by a 100 km (62 miles) sprint on Saturday. On a race weekend with sprint qualifying, the sessions on Friday instead consist of one practice session and a traditional qualifying session, which is limited to soft tyres and sets the grid of sprint qualifying. Only the winner of the sprint qualifying will be considered to have taken pole position for the main Grand Prix, and they receive a trophy similar to the pole position trophy awarded at other race weekends. The top three finishers in sprint qualifying in 2021 received World Championship points in a 3–2–1 scoring system. Formula One initially planned to extend the use of the format from the three events in 2021 to six events in the 2022 Formula One World Championship. McLaren Racing CEO Zak Brown said these plans could be under threat with teams unable to agree on whether the sports budget cap should be increased (and if so by how much) to cover the cost of extra sprints.
+#### Racing
+Thirty minutes prior to race time, the cars take to the track for any number of warm-up laps (formally known as reconnaissance laps), provided they pass through the pit lane and not the grid, after which they assemble on the starting grid in the order they qualified. At the hour of the race, a green light signifies the beginning of the relatively slow formation lap during which all cars parade around the course doing a final tyre warmup and system checks. The cars then return to their assigned grid spot for the standing race start. The starting light system, which consists of five pairs of lights mounted above the start/finish line, then lights up each pair at one-second intervals. Once all five pairs are illuminated, after a random length of time (one to nine seconds), the red lights are turned off by the race director, at which point the race starts.
+
+## Strategies
+#### Tyre rules
+Each driver may use no more than thirteen sets of dry-weather tyres, four sets of intermediate tyres, and three sets of wet-weather tyres during a race weekend.
+#### Pit stops
+Each driver is also required to use two different types of dry compound during a dry race, and so must make a mandatory pit stop. Timing pit stops with reference to other cars is crucial—if they are following another car but are unable to pass, the driver may try to stay on the track as long as possible, or pit immediately, as newer tyres are usually faster. Prior to the 2010 season, drivers used to make pit stops for fuel more than once during a race, as the cars on average traveled two kilometres per litre (approximately five miles per gallon). Nowadays this figure is higher, due to changes in engines from 2014, and as a result refuelling has been forbidden during a race since 2010. If a driver starts the race using intermediate or wet tyres, he is not mandated to make a pit stop.
+
+## Points system
+| Position | 1st | 2nd |	3rd |	4th |	5th |	6th |	7th |	8th |	9th |	10th |	11th – Last |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Points Awarded |	25 |	18 |	15 |	12 |	10 |	8	| 6 |	4 |	2 |	1 |	0 |
