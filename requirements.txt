@@ -4,3 +4,4 @@ pandas
 numpy
 pip
 click
+scikit-learn
